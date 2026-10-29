@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+runs/
+road-damage-1/
+*.zip
+.env
